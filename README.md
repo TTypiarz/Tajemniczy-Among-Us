@@ -1,2 +1,5 @@
 # Tajemniczy Among Us
-To repozytorium służy do tłumaczenia ról oraz modyfikatorów na stronie https://tajemniczy.xyz/among-us.
+W tym repozytorium znajdują się aktualne opisy ról/modyfikatorów używane na stronie https://tajemniczy.xyz/among-us.
+
+## Jak pomóc?
+Jeżeli chcesz pomóc poprawić lub przetłumaczyć opisy, możesz zaproponować zmiany tworząc **Pull Request**.
